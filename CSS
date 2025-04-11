@@ -1,24 +1,17 @@
-body {
-font-family: Arial, sans-serif;
-text-align: center;
-margin: 20px;
-}
-
-.puzzle-container {
-display: flex;
+grid-puzzle {
+display: grid;
 flex-wrap: wrap;
-justify-content: center;
-width: 150px;
-margin: auto;
+grid-template-columns: repeat(3, 1fr);
 gap: 10px;
+ustify-items: center;
+align-itmes: center;
 }
 
-.puzzle-container img {
+.grid-puzzle img {
 width: 150px;
 height: auto;
-border: 1px solid #ccc;
 }
 
-.hidden {
+.hide {
 display: none;
 }
