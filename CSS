@@ -2,8 +2,14 @@ grid-puzzle {
 display: grid;
 grid-template-columns: repeat(3, 1fr);
 gap: 10px;
-ustify-items: center;
-align-itmes: center;
+justify-items: center;
+align-items: center;
+}
+
+.grid-puzzle img { 
+width: 150px;
+height: 150px;
+object-fit: cover;
 }
 
 .hide {
