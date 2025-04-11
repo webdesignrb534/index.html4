@@ -1,1 +1,24 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 20px;
+}
 
+.puzzle-container {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+width: 600px;
+margin: auto;
+gap: 5px;
+}
+
+.puzzle-container img {
+width: 190px;
+height: auto;
+border: 1px solid #ccc;
+}
+
+.hidden {
+display: none;
+}
