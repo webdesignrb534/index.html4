@@ -17,7 +17,7 @@
 <img src="puzzle3_E.jpg" alt="Fish Puzzle Piece">
 <img src="puzzle3_F.jpg" alt="Fish Puzzle Piece">
 <img src="puzzle3_H.jpg" alt="Fish Puzzle Piece">
-<img src="images/fish8.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_I.jpg" alt="Fish Puzzle Piece">
 <!-- Faulty piece hidden -->
 <img src="images/fish9.jpg" alt="Faulty Piece" class="hidden">
 </div>
