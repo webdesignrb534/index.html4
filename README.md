@@ -1,13 +1,21 @@
-# CSS Flexbox & Grid Puzzle Assignment
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-## Puzzle Type
-**Fish**
-
-## Layout Description
-This project uses CSS grid to lay out the page in three sections.
-
-## Puzzle Assembly 
-The puzzle image pieces are displayed using a CSS grid, arrange in a 3x3 grid.
-
-## Author
-Reese Brooks
+<section class="puzzle-section">
+<div class="grid-puzzle">
+<img src="puzzle3_D.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_B.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_C.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_A.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_F.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_I.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_E.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_G.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_H.jpg" alt="wrong piece" class="hide">
+</div>
+</section>
