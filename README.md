@@ -1,9 +1,7 @@
 
 <link rel="stylesheet" href="style.css">
 
-<div class="grid-puzzle">
-<img src="puzzle3_D.jpg" alt="Fish Puzzle Piece">
-  
+<div class="grid-puzzle">  
 <img src="puzzle3_A.jpg" alt="Fish Puzzle Piece">
 <img src="puzzle3_B.jpg" alt="Fish Puzzle Piece">
 <img src="puzzle3_C.jpg" alt="Fish Puzzle Piece">
