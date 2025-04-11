@@ -6,7 +6,6 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Fish Puzzle - Reese Brooks</h1>
 
 <section class="puzzle-section">
 <div class="grid-puzzle">
