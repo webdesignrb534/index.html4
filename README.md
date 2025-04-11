@@ -10,7 +10,7 @@
 <p>Completed on: April 11, 2025</p>
 
 <div class="puzzle-container">
-<img src="file:///Users/student/Downloads/4.4_puzzle3/puzzle3_A.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle1_A.jpg" alt="Fish Puzzle Piece">
 <img src="images/fish2.jpg" alt="Fish Puzzle Piece">
 <img src="images/fish3.jpg" alt="Fish Puzzle Piece">
 <img src="images/fish4.jpg" alt="Fish Puzzle Piece">
