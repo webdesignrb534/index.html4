@@ -1,15 +1,9 @@
 grid-puzzle {
 display: grid;
-flex-wrap: wrap;
 grid-template-columns: repeat(3, 1fr);
 gap: 10px;
 ustify-items: center;
 align-itmes: center;
-}
-
-.grid-puzzle img {
-width: 150px;
-height: auto;
 }
 
 .hide {
