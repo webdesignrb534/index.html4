@@ -19,3 +19,5 @@
 <img src="puzzle3_H.jpg" alt="wrong piece" class="hide">
 </div>
 </section>
+
+<link rel="stylesheet" href="style.css"
