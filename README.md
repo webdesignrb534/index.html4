@@ -10,7 +10,7 @@
 <p>Completed on: April 11, 2025</p>
 
 <div class="puzzle-container">
-<img src="puzzle1_A.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_A.jpg" alt="Fish Puzzle Piece">
 <img src="puzzle3_B.jpg" alt="Fish Puzzle Piece">
 <img src="images/fish3.jpg" alt="Fish Puzzle Piece">
 <img src="images/fish4.jpg" alt="Fish Puzzle Piece">
