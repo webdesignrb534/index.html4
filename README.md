@@ -11,7 +11,7 @@
 
 <div class="puzzle-container">
 <img src="puzzle1_A.jpg" alt="Fish Puzzle Piece">
-<img src="images/fish2.jpg" alt="Fish Puzzle Piece">
+<img src="puzzle3_B.jpg" alt="Fish Puzzle Piece">
 <img src="images/fish3.jpg" alt="Fish Puzzle Piece">
 <img src="images/fish4.jpg" alt="Fish Puzzle Piece">
 <img src="images/fish5.jpg" alt="Fish Puzzle Piece">
