@@ -14,4 +14,4 @@
 <img src="puzzle3_I.jpg" alt="Fish Puzzle Piece">
 <img src="puzzle3_H.jpg" alt="wrong piece" class="hide">
 </div>
-</section>
+
