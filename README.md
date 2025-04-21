@@ -10,7 +10,6 @@
 <img src="puzzle3_C.jpg" alt="Fish Puzzle Piece">
     <img src="puzzle3_E.jpg" alt="Fish Puzzle Piece">
 
-<img src="puzzle3_H.jpg" alt="Fish Puzzle Piece">
 <img src="puzzle3_I.jpg" alt="wrong piece" class="hide">
     <img src="puzzle3_E.jpg" alt="Fish Puzzle Piece">
 
